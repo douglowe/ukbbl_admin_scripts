@@ -1,0 +1,10 @@
+#---------------------
+# Google API tokens and credentials
+#---------------------
+credentials.json
+token.pickle
+
+#---------------------
+# ID string for google folder
+#---------------------
+google_folder_id.txt
