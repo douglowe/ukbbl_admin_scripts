@@ -1,0 +1,11 @@
+name: google_sheets
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - numpy
+  - requests
+  - gspread
+  - gspread-pandas
